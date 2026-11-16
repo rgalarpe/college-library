@@ -1,16 +1,14 @@
-# Introduction to Git and GitHub
+# College Library App
 
-## Simple Interest Calculator
+## A static react site with dummy data
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+This is a simple College Library App with Mock Database, the intent is to run quickly for demo purposes.
 
 ```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+The app this features:
+   Student View
+   Book View
+   Borrow Book
 ```
 
-_© 2022 XYZ, Inc._
+_© 2026 XYZ, Inc._
